@@ -1,0 +1,8 @@
+apiVersion: bitnami.com/v1alpha1
+kind: SealedSecret
+metadata:
+  name: comet-route-sync-secrets
+spec:
+  encryptedData:
+    DB_PASSWORD: AgufbG4+8C9SKvqe3fGe7VqylicIlH8oQRvbzHoJnT+wo5vSUV8kEYaPCHgELufUpXusUqrCkigssHwCnyFR8n87LxvUVgl584W6n6//36Vo16S2AMFvEggx43C7EUU6q2ETczspXYSr/vBKr+PyQycXu+nrZA/gwI/9fAb0sAKrJ+s6xO0Ae1gc4kuijYQV7fA4QpV+hUTrMbR8mtkhfl6jojyGPXsD3jJJ2vBmKhOJMqaoWyXv6pbqj1Wam6og9RzC4ZeiudLWOjTEsJQMgW/O7njw9tF9qawuI+VAghvwqU==
+    API_TOKEN: Agp559g2x5wmrxaefWribVwDdegJz5mwirQFo5Rp4LhUWVmbfHW/tRidORm1XxlyE8mo+r/BoR1KvmhXiGceI1w++ZnehaoHPhtwLC2lsI8Dymb3n26T1QddlD2RQkacIFO77Q8udlJwwvvnBXYY3gkw/i2fRsVtytBBmdcwREyNjXAUB+LfKHkRuKDTPd+h5MXf1DxbcKPp4DxwglSGpFC7DeTLF+H8ESZcSjDk3cQ1CEDWYe6zUOqPS95204LAFmjqybphHi391gW/EjQDSkaBfNrx+ANioVyMMxGZs9IKgL==
